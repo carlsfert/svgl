@@ -531,6 +531,12 @@ export const svgs: iSVG[] = [
     wordmark: "/library/npm-wordmark.svg",
   },
   {
+    title: "Roundproxies",
+    category: "Software",
+    url: "https://roundproxies.com",
+    route: "/library/roundproxies-logo.svg",
+  },
+  {
     title: "Nuget",
     category: "Software",
     route: "/library/nuget.svg",
