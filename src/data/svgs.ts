@@ -1026,6 +1026,12 @@ export const svgs: iSVG[] = [
     brandUrl: "https://www.docker.com/company/newsroom/media-resources/",
   },
   {
+  title: 'Roundproxies',
+  category: 'Software',
+  route: '/library/roundproxies-logo.svg',
+  url: 'https://roundproxies.com'
+  },
+  {
     title: "Amazon Web Services",
     category: "Software",
     route: {
